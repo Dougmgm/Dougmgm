@@ -1,6 +1,6 @@
-## Hi there! Thanks for coming by 👋
+##  👋 Hi there! Thanks for coming by 
 
-### About me:
+### 👨 About me:
 I'm a 24 year old economist and developer currently working as a trainee at Benner.
 <br>
 
@@ -9,7 +9,7 @@ I'm a 24 year old economist and developer currently working as a trainee at Benn
 - Vue.js
 - Microsoft SQL Server
 
-### Languages that i know:
+### 💡 Languages that i know:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,vue,r)](https://skillicons.dev)
 
