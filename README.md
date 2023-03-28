@@ -6,8 +6,8 @@ I'm a 25 year old economist and developer currently working as a trainee at Benn
 
 ### 📚 I’m currently studying:
 - C#
-- Vue.js
-- Microsoft SQL Server
+- WPF
+
 
 ### 💡 Languages that i know:
 
