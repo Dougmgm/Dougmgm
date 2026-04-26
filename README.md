@@ -1,7 +1,7 @@
 ##  👋 Hi there! Thanks for coming by 
 
 ### 👨 About me:
-I'm a 27 year old economist and developer currently working at Benner.
+I'm a 28 year old economist and developer currently working at Benner.
 <br>
 
 ### 📚 I’m currently studying:
