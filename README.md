@@ -2,11 +2,11 @@
 
 ### Desenvolvedor de Software | C# / .NET
 
-Sou Desenvolvedor de Software com **4+ anos de experiência profissional**, atualmente atuando na **Benner**, onde trabalho no desenvolvimento, manutenção e evolução de sistemas corporativos.
+Sou Desenvolvedor de Software com **4+ anos de experiência profissional**, atualmente atuando na **Benner**, onde trabalho no desenvolvimento, manutenção e evolução de sistemas na área da saúde.
 
-Minha principal especialidade está no ecossistema **C#/.NET**, com experiência em aplicações desktop, regras de negócio, integrações, bancos de dados e qualidade de software.
+Minha principal especialidade está no ecossistema **C#/.NET e ASP.NET Core**, com experiência em aplicações desktop, regras de negócio, integrações, bancos de dados e qualidade de software, além de JavaScript e bancos de dados relacionais, com foco em Arquitetura de Software, APIs REST, performance e boas práticas de desenvolvimento.
 
-Tenho interesse especial por **arquitetura de software, desenvolvimento backend, sistemas distribuídos e modernização gradual de aplicações legadas**.
+Tenho interesse por **arquitetura de software, desenvolvimento backend, sistemas distribuídos e Cloud Computing**.
 
 ---
 
@@ -77,8 +77,6 @@ Tenho experiência e interesse em:
 * **DTOs**
 * **Repository Pattern**
 * **Testes Unitários**
-* **Refatoração**
-* **Modernização de sistemas legados**
 
 ---
 
@@ -106,11 +104,11 @@ Também tenho interesse em trabalhar com **equipes internacionais**, contribuind
 
 ## 🎓 Formação
 
-**Ciências Econômicas**
-Universidade Estadual de Maringá — UEM
-
 **Análise e Desenvolvimento de Sistemas**
 UniFatecie
+
+**Ciências Econômicas**
+Universidade Estadual de Maringá — UEM
 
 ---
 
