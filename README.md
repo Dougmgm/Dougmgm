@@ -10,6 +10,12 @@ Tenho interesse por **arquitetura de software, desenvolvimento backend, sistemas
 
 ---
 
+## 📫 Vamos conversar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Douglas_Menchon-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/douglas-menchon-8b96b7144/)
+
+---
+
 ## 💻 Sobre mim
 
 * 🔹 4+ anos de experiência profissional em desenvolvimento de software
@@ -110,12 +116,5 @@ UniFatecie
 **Ciências Econômicas**
 Universidade Estadual de Maringá — UEM
 
----
 
-## 📫 Vamos conversar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Douglas_Menchon-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/douglas-menchon-8b96b7144/)
-
----
-
-> *"Software de qualidade não é apenas código que funciona, mas código que pode ser compreendido, mantido e evoluído."*
